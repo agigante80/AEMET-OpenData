@@ -1,0 +1,6 @@
+# Things this project has decided it may show. Tracked and public on purpose.
+# Keys: root, prefix, email (public scanner); skip (both).
+# NEVER put a private NAME here — the file is public, and a name would be an index.
+root proj
+# pyproject.toml:10: upstream fork author's own public contact address (Noltari/AEMET-OpenData)
+email noltari@gmail.com
